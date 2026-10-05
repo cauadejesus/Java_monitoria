@@ -5,7 +5,7 @@ public class Ex2 {
 
         double nota = 0;
         for(int i = 0; i < 3; i++){
-            System.out.printf("Digite o valor %d:", i+1);   //System.out.println("Digite o valor"+ (i+1)+": ");
+            System.out.printf("Digite o valor %d:", i+1);   //System.out.println("Digite o valor "+ (i+1)+": ");
             String valor = sc.nextLine();
             double num = Double.parseDouble(valor);
             nota += num;
