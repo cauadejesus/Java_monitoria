@@ -1,5 +1,3 @@
-package lab.CauadeJesusAguiar.code;
-
 public class Ex17 {
     public static void main(String[] args) {
         String descricao = "Teclado Mecânico RGB";

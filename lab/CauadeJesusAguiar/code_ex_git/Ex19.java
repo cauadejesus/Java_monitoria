@@ -1,4 +1,3 @@
-package lab.CauadeJesusAguiar.code;
 import java.util.Scanner;
 public class Ex19 {
     public static void main(String[] args) {

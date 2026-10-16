@@ -1,4 +1,3 @@
-package lab.CauadeJesusAguiar.code;
 public class Ex28 {
     //Tinha dado erro, pois os valores de entrada estavam como int 
     // e o resultado era um double

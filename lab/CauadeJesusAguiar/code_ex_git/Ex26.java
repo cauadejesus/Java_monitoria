@@ -1,5 +1,3 @@
-package lab.CauadeJesusAguiar.code;
-
 import java.util.Scanner;
 
 public class Ex26 {

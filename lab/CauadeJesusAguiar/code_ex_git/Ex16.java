@@ -1,4 +1,3 @@
-package lab.CauadeJesusAguiar.code;
 public class Ex16 {
     public static void main(String[] args) {
         String nome = "Ana Silva";
