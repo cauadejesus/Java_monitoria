@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class Main {
+public class MiniGame {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -28,7 +28,7 @@ public class Main {
             System.out.println("\t\t\t\t|===============================|");
             System.out.println("\t\t\t\t Tente adivinhar o numero secreto!");
             System.out.println("\t\t\t\t O numero esta entre 1 e 100.");
-            System.out.println("\t\t\t\t O meu record foi de 4 tentativas. Boa sorte :)");
+            System.out.println("\t\t\t\t O meu record foi de 3 tentativas. Boa sorte :)");
 
             // Laço que continua até o número ser acertado. (Enquanto o palpite for diferente do número secreto)
             while (palpite != numeroSecreto) {
